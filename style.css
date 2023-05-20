@@ -21,10 +21,10 @@ ol, ul {
 }
 
 #fussbereich {
-  position: absolute;
+  bottom: 0;
   background-color: purple;
-  width: 100%;
-  bottom:  0;
+  padding: 16px;
+  margin-top: 64px;
 }
 
 h4 {
