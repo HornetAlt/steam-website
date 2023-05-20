@@ -3,7 +3,6 @@ html, body {
   color: black;
   font-size: medium;
   font-family: Abadi, Jumble, Posterama;
-  height: 100%;
 }
 
 h1 {
@@ -21,10 +20,13 @@ ol, ul {
 }
 
 #fussbereich {
-  bottom: 0;
   background-color: purple;
-  padding: 16px;
-  margin-top: 64px;
+  text-align: center;
+  padding: 12px;
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  width: 100vw;
 }
 
 h4 {
