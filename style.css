@@ -31,3 +31,7 @@ h4 {
   color: dark-blue;
   font-weight: light;
 }
+
+#chatgpt {
+  width: 16%;
+}
