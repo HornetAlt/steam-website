@@ -1,43 +1,22 @@
-html, body
-
-{
-
+html, body {
   background-color: lime;
-
   color: black;
-  
   font-size: medium;
-
   font-family: Abadi, Jumble, Posterama;
-  
   height: 100%;
-
 }
 
-h1
-
-{
-
+h1 {
   color: grey;
   font-weight: bold;
-
 }
 
-em
-
-{
-
+em {
   color: blue;
-
 }
 
-ol, ul
-
-{
-
+ol, ul {
   color: orange;
-  
   font-weight: bold;
-
 }
 

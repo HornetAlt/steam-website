@@ -1,67 +1,33 @@
-html, body
-
-{
-
+html, body {
   background-color: cyan;
-
   color: black;
-  
   font-size: medium;
-
   font-family: Abadi, Jumble, Posterama;
-  
   height: 100%;
-
 }
 
-h1
-
-{
-
+h1 {
   color: grey;
   font-weight: bold;
-
 }
 
-em
-
-{
-
+em {
   color: blue;
-
 }
 
-ol, ul
-
-{
-
+ol, ul {
   color: orange;
-  
   font-weight: bold;
-
 }
 
-#fussbereich
-
-{
-
-position: absolute;
-
-background-color: purple;
-
-width: 100%;
-
-bottom:  0;
-
+#fussbereich {
+  position: absolute;
+  background-color: purple;
+  width: 100%;
+  bottom:  0;
 }
 
-h4
-
-
-{
-
-color: dark-blue;
-
-font-weight: light
-
+h4 {
+  color: dark-blue;
+  font-weight: light;
 }
